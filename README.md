@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Gaurav Verma
 **A passionate Software Developer || Full Stack Engineer from India**
 
-Email Me 👉 ✉️ **your-email@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **gauravkumarverma5000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Full-Stack web applications and edge-based transit algorithms.
 - 🌱 **I’m currently learning:** Cloud deployment, container orchestration (Docker/Kubernetes), and Go.
@@ -46,7 +46,7 @@ Stay updated with my latest tutorials, projects, and tech updates by subscribing
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:gauravkumarverma5000@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
