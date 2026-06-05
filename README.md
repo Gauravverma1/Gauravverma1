@@ -156,7 +156,7 @@ Email Me 👉 ✉️ **gauravkumarverma5000@gmail.com** For Collaboration/Projec
     </td> 
   </tr> 
 </table> 
-<br><br><br><br><br>
+<br clear="both">
 
 <!-- ================= ANALYTICS ================= --> 
 <h2 align="center">📊 GitHub Analytics</h2>
