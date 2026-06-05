@@ -11,8 +11,9 @@ Email Me 👉 ✉️ **gauravkumarverma5000@gmail.com** For Collaboration/Projec
 - 📫 **How to reach me:** [your-portfolio-link.dev](https://your-portfolio-link.dev) or via my email.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I write code to solve problems, and create new ones to debug.
-
-[![](https://visitcount.itsvg.in/api?id=Gauravverma1&icon=1&color=4)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Gauravverma1&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <!-- Snake Game Repo View -->
 <div align="center">
