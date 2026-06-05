@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Gaurav Verma
+# 💫 Hi 👋, I'm Gaurav Kumar Verma
 **A passionate Software Developer || Full Stack Engineer from India**
 
 Email Me 👉 ✉️ **gauravkumarverma5000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
