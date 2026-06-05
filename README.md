@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **gauravkumarverma5000@gmail.com** For Collaboration/Projec
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I write code to solve problems, and create new ones to debug.
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Gauravverma1&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Gauravverma1&label=Profile+Views&color=blueviolet&style=for-the-badge&base=1200" alt="Profile Views" />
 </p>
 
 <!-- Snake Game Repo View -->
