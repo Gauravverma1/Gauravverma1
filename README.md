@@ -12,12 +12,6 @@ Email Me 👉 ✉️ **gauravkumarverma5000@gmail.com** For Collaboration/Projec
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I write code to solve problems, and create new ones to debug.
 
-## 🔗 I am a Content Creator. 😊😊
-
-Stay updated with my latest tutorials, projects, and tech updates by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
-
-[![YouTube](https://img.shields.io/badge/YouTube-Techno%20Snag-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/technosnag)
-
 [![](https://visitcount.itsvg.in/api?id=Gauravverma1&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View -->
